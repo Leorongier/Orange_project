@@ -72,3 +72,14 @@ If you prefer to get a glimpse of the application without having to download and
     <br><br><br>
 </ul>
 </p>
+
+<h2 align="center">🎉 Conclusion</h2>
+<p align="center">
+Thank you for taking the time to explore the Orange_project! We deeply appreciate your interest and hope you found the information and resources provided both informative and useful. We welcome any feedback or questions you might have and look forward to potentially collaborating with like-minded enthusiasts in the future.
+</p>
+<p align="center">
+Stay curious, keep exploring, and happy learning!
+</p>
+<p align="center">
+🧡 Khadija Oukerroum and Léo Rongier
+</p>
