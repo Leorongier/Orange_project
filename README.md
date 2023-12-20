@@ -30,19 +30,22 @@ Here is a glimpse into the dataset we used for training our model. You can downl
 </p>
 
 <h2 align="center">📈 Results</h2>
-<p align="center">
+<p>
 <br><br><br>
 We achieved an accuracy score of 0.58, marking a commendable step forward towards creating efficient and precise language models.
 <br><br><br>
 </p>
 
 <h2 align="center">🚀 How to Launch the Application</h2>
-<p align="center">
+<p>
+<br><br><br>
 To start exploring our application, please follow, please download <a href="https://github.com/Leorongier/Orange_project/blob/main/Application/Application.ipynb"><code>application.ipynb</code></a>.and run the code</code> file and follow the instructions provided.</li>
+<br><br><br>
 </p>
 
 <h2 align="center">👀 Application Preview</h2>
-<p align="center">
+<p>
+<br><br><br>
 If you prefer to get a glimpse of the application without having to download and run it, here are some images illustrating what it looks like:
 <ul>
   <li>
@@ -50,28 +53,28 @@ If you prefer to get a glimpse of the application without having to download and
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Home_page_app.png?raw=true" alt="Home Page">
     </p>
     <p align="center">Description for Home Page Image</p>
-    <br>
+    <br><br><br>
   </li>
   <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Predict_page_app.png?raw=true" alt="Prediction Page">
     </p>
     <p align="center">Description for Prediction Page Image</p>
-    <br>
+    <br><br><br>
   </li>
   <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Param_page_app.png?raw=true" alt="Settings Page">
     </p>
     <p align="center">Description for Settings Page Image</p>
-    <br>
+    <br><br><br>
   </li>
   <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Data_page_app.png?raw=true" alt="Data Page">
     </p>
     <p align="center">Description for Data Page Image</p>
-    <br>
+    <br><br><br>
   </li>
 </ul>
 </p>
