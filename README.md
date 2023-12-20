@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Application/Logo_team_orange_DS&ML.png" alt="Logo">
+</p>
+
 <h1 align="center">🍊 Orange_project</h1>
 ## 🌟 Project Context
 Welcome to the Orange_project!
