@@ -24,6 +24,14 @@ Our approach involved experimenting with a variety of Machine Learning technique
 Each method underwent rigorous testing to evaluate its effectiveness in predicting text difficulty.
 </p>
 
+<h2 align="center">📊 Dataset Preview</h2>
+<p align="center">
+Here is a glimpse into the dataset we used for training our model:
+</p>
+<p align="center">
+[Insert a table or list here showing a sample of the dataset]
+</p>
+
 <h2 align="center">📈 Results</h2>
 <p align="center">
 We achieved an accuracy score of 0.58, marking a commendable step forward towards creating efficient and precise language models.
