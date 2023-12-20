@@ -5,15 +5,13 @@
 <h1 align="center">Welcome to the Orange_project!</h1>
 
 <h2 align="center">🌟 Project Context</h2>
-<p> We are thrilled to introduce an application developed by Khadija Oukerroum and Léo Rongier, enthusiastic students from HEC Lausanne. Our journey began in 2023, with the aim of crafting a machine learning model capable of predicting the difficulty levels of French texts. We're inviting you to dive into this venture and witness the prowess of our model firsthand.
+<p align="center">
+We are thrilled to introduce the Orange_project developed by Khadija Oukerroum and Léo Rongier, enthusiastic students from HEC Lausanne. This project, realized as part of the Data Science and Machine Learning course within the Master's in Information Systems program at HEC Lausanne in 2023, aims to craft a machine learning model capable of predicting the difficulty levels of French texts. We invite you to dive into this venture and witness the prowess of our model firsthand.
 </p>
 
 <h2 align="center">🔍 Methodology</h2>
+<p align="center">
 Our approach involved experimenting with a variety of Machine Learning techniques:
-<ul>
-  
-</ul>
-
 <ul>
   <li>Logistic Regression with Finetuned-Embedding</li>
   <li>Logistic Regression with Multilingual Embedding</li>
@@ -27,18 +25,42 @@ Each method underwent rigorous testing to evaluate its effectiveness in predicti
 </p>
 
 <h2 align="center">📈 Results</h2>
-<p>
+<p align="center">
 We achieved an accuracy score of 0.58, marking a commendable step forward towards creating efficient and precise language models.
 </p>
 
-<h2 align="center">📚 About this Application</h2>
-<p>
-This Streamlit application is interactive, empowering users to:
+<h2 align="center">🚀 How to Launch the Application</h2>
+<p align="center">
+To start exploring our application, please follow these steps:
+<ol>
+  <li>Navigate to <code>main > Application</code> in our GitHub repository.</li>
+  <p align="center">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+</p>
+  <li>Download the file named <code>application.py</code>.</li>
+  <p align="center">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+</p>
+  <li>Run the code in the <code>application.py</code> file and follow the instructions provided.</li>
+  <p align="center">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+</p>
+</ol>
+
+<h2 align="center">👀 Application Preview</h2>
+<p align="center">
+If you prefer to get a glimpse of the application without having to download and run it, here are some images illustrating what it looks like:
 <ul>
-<li>Assess the difficulty of French phrases or texts using our model.</li>
-<li>Examine the various model settings and their influence on the results.</li>
-<li>(If applicable) Download the training dataset to gain insight into our methodology.</li>
+  <li><p align="center">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+</p></li>
+  <li><p align="center">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+</p></li>
+  <li><p align="center">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+</p></li>
+  <li>Image 4: [Description]</li>
 </ul>
-🚀 Start Exploring<br>
-Navigate through the application using the tabs to uncover all the features we offer.
+Descriptions to be added later.
 </p>
