@@ -43,15 +43,15 @@ To start exploring our application, please follow these steps:
 <ol>
   <li>Navigate to <code>main > Application</code> in our GitHub repository.</li>
   <p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_1.png?raw=true" alt="Logo">
 </p>
   <li>Download the file named <code>application.ipynb</code>.</li>
   <p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_2.png?raw=true" alt="Logo">
 </p>
   <li>Run the code in the <code>application.ipynb</code> file and follow the instructions provided.</li>
   <p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_3.png?raw=true" alt="Logo">
 </p>
 </ol>
 
@@ -60,14 +60,17 @@ To start exploring our application, please follow these steps:
 If you prefer to get a glimpse of the application without having to download and run it, here are some images illustrating what it looks like:
 <ul>
   <li><p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Home_page_app.png?raw=true" alt="Logo">
 </p></li>
   <li><p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Predict_page_app.png?raw=true" alt="Logo">
 </p></li>
   <li><p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Param_page_app.png?raw=true" alt="Logo">
 </p></li>
+  <li><p align="center">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Data_page_app.png?raw=true" alt="Logo">
+</p>
   <li>Image 4: [Description]</li>
 </ul>
 Descriptions to be added later.
