@@ -1,5 +1,5 @@
-#🍊 Orange_project
-🌟 Project Context
+# 🍊 Orange_project
+## 🌟 Project Context
 Welcome to the Orange_project!
 
 We are thrilled to introduce an application developed by Khadija Oukerroum and Léo Rongier, enthusiastic students from HEC Lausanne. Our journey began in 2023, with the aim of crafting a machine learning model capable of predicting the difficulty levels of French texts. We're inviting you to dive into this venture and witness the prowess of our model firsthand.
