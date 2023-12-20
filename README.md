@@ -52,28 +52,28 @@ If you prefer to get a glimpse of the application without having to download and
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Home_page_app.png?raw=true" alt="Home Page">
     </p>
-    <p align="center">Description for Home Page Image</p>
+    <p align="center">The Home Page provides key information about the project and app, including objectives, methodology, and results.</p>
     <br><br><br>
   </li>
   <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Predict_page_app.png?raw=true" alt="Prediction Page">
     </p>
-    <p align="center">Description for Prediction Page Image</p>
+    <p align="center">On the Predict Page, users can input a French sentence to test the model's ability to predict its difficulty level.</p>
     <br><br><br>
   </li>
   <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Param_page_app.png?raw=true" alt="Settings Page">
     </p>
-    <p align="center">Description for Settings Page Image</p>
+    <p align="center">This page allows users to adjust model parameters and observe how these changes impact performance.</p>
     <br><br><br>
   </li>
   <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Data_page_app.png?raw=true" alt="Data Page">
     </p>
-    <p align="center">Description for Data Page Image</p>
+    <p align="center">The Data Page offers an interactive way to explore the dataset, sorting texts by their difficulty levels.</p>
     <br><br><br>
   </li>
 </ul>
