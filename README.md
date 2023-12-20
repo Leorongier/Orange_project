@@ -14,13 +14,13 @@ We are thrilled to introduce an application developed by Khadija Oukerroum and L
 <p align="center">
 Our approach involved experimenting with a variety of Machine Learning techniques:<br>
 <ul>
-<li>Logistic Regression with Finetuned-Embedding</li>
-<li>Logistic Regression with Multilingual Embedding</li>
-<li>Logistic Regression with TF-IDF</li>
-<li>Logistic Regression with Bag-of-Words</li>
-<li>KNN (K-Nearest Neighbors)</li>
-<li>Decision Tree</li>
-<li>Random Forest</li>
+  <li>Logistic Regression with Finetuned-Embedding</li>
+  <li>Logistic Regression with Multilingual Embedding</li>
+  <li>Logistic Regression with TF-IDF</li>
+  <li>Logistic Regression with Bag-of-Words</li>
+  <li>KNN (K-Nearest Neighbors)</li>
+  <li>Decision Tree</li>
+  <li>Random Forest</li>
 </ul>
 Each method underwent rigorous testing to evaluate its effectiveness in predicting text difficulty.
 </p>
