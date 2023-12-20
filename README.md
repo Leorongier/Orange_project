@@ -4,6 +4,9 @@
 
 <h1 align="center">Welcome to the Orange_project!</h1>
 
+[![Video Explanation](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
+
 <h2 align="center">🌟 Project Context</h2>
 <p align="center">
 We are thrilled to introduce the Orange_project developed by Khadija Oukerroum and Léo Rongier, enthusiastic students from HEC Lausanne. This project, realized as part of the Data Science and Machine Learning course within the Master's in Information Systems program at HEC Lausanne in 2023, aims to craft a machine learning model capable of predicting the difficulty levels of French texts. We invite you to dive into this venture and witness the prowess of our model firsthand.
