@@ -37,11 +37,11 @@ To start exploring our application, please follow these steps:
   <p align="center">
   <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
 </p>
-  <li>Download the file named <code>application.py</code>.</li>
+  <li>Download the file named <code>application.ipynb</code>.</li>
   <p align="center">
   <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
 </p>
-  <li>Run the code in the <code>application.py</code> file and follow the instructions provided.</li>
+  <li>Run the code in the <code>application.ipynb</code> file and follow the instructions provided.</li>
   <p align="center">
   <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
 </p>
