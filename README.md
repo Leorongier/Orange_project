@@ -26,15 +26,14 @@ Each method underwent rigorous testing to evaluate its effectiveness in predicti
 
 <h2 align="center">📊 Dataset Preview</h2>
 <p align="center">
-Here is a glimpse into the dataset we used for training our model:
-</p>
-<p align="center">
-[Insert a table or list here showing a sample of the dataset]
+Here is a glimpse into the dataset we used for training our model. You can download the dataset from <a href="https://github.com/Leorongier/Orange_project/blob/main/path/to/dataset.csv">here</a>.
 </p>
 
 <h2 align="center">📈 Results</h2>
 <p align="center">
+<br><br><br>
 We achieved an accuracy score of 0.58, marking a commendable step forward towards creating efficient and precise language models.
+<br><br><br>
 </p>
 
 <h2 align="center">🚀 How to Launch the Application</h2>
@@ -43,35 +42,59 @@ To start exploring our application, please follow these steps:
 <ol>
   <li>Navigate to <code>main > Application</code> in our GitHub repository.</li>
   <p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_1.png?raw=true" alt="Logo">
-</p>
+    <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_1.png?raw=true" alt="Navigation Step 1">
+    <br>
+    Description for Step 1.
+    <br><br>
+  </p>
   <li>Download the file named <code>application.ipynb</code>.</li>
   <p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_2.png?raw=true" alt="Logo">
-</p>
+    <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_2.png?raw=true" alt="Download File">
+    <br>
+    Description for Step 2.
+    <br><br>
+  </p>
   <li>Run the code in the <code>application.ipynb</code> file and follow the instructions provided.</li>
   <p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_3.png?raw=true" alt="Logo">
-</p>
+    <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_3.png?raw=true" alt="Run Application">
+    <br>
+    Description for Step 3.
+    <br><br>
+  </p>
 </ol>
+</p>
 
 <h2 align="center">👀 Application Preview</h2>
 <p align="center">
 If you prefer to get a glimpse of the application without having to download and run it, here are some images illustrating what it looks like:
 <ul>
-  <li><p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Home_page_app.png?raw=true" alt="Logo">
-</p></li>
-  <li><p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Predict_page_app.png?raw=true" alt="Logo">
-</p></li>
-  <li><p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Param_page_app.png?raw=true" alt="Logo">
-</p></li>
-  <li><p align="center">
-  <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Data_page_app.png?raw=true" alt="Logo">
-</p>
-  <li>Image 4: [Description]</li>
+  <li>
+    <p align="center">
+      <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Home_page_app.png?raw=true" alt="Home Page">
+    </p>
+    <p align="center">Description for Home Page Image</p>
+    <br>
+  </li>
+  <li>
+    <p align="center">
+      <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Predict_page_app.png?raw=true" alt="Prediction Page">
+    </p>
+    <p align="center">Description for Prediction Page Image</p>
+    <br>
+  </li>
+  <li>
+    <p align="center">
+      <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Param_page_app.png?raw=true" alt="Settings Page">
+    </p>
+    <p align="center">Description for Settings Page Image</p>
+    <br>
+  </li>
+  <li>
+    <p align="center">
+      <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Data_page_app.png?raw=true" alt="Data Page">
+    </p>
+    <p align="center">Description for Data Page Image</p>
+    <br>
+  </li>
 </ul>
-Descriptions to be added later.
 </p>
