@@ -5,9 +5,7 @@
 <h1 align="center">Welcome to the Orange_project!</h1>
 
 <h2 align="center">🌟 Project Context</h2>
-<p align="center">Welcome to the Orange_project!</p>
-<p align="center">
-We are thrilled to introduce an application developed by Khadija Oukerroum and Léo Rongier, enthusiastic students from HEC Lausanne. Our journey began in 2023, with the aim of crafting a machine learning model capable of predicting the difficulty levels of French texts. We're inviting you to dive into this venture and witness the prowess of our model firsthand.
+<p> We are thrilled to introduce an application developed by Khadija Oukerroum and Léo Rongier, enthusiastic students from HEC Lausanne. Our journey began in 2023, with the aim of crafting a machine learning model capable of predicting the difficulty levels of French texts. We're inviting you to dive into this venture and witness the prowess of our model firsthand.
 </p>
 
 <h2 align="center">🔍 Methodology</h2>
@@ -29,12 +27,12 @@ Each method underwent rigorous testing to evaluate its effectiveness in predicti
 </p>
 
 <h2 align="center">📈 Results</h2>
-<p align="center">
+<p>
 We achieved an accuracy score of 0.58, marking a commendable step forward towards creating efficient and precise language models.
 </p>
 
 <h2 align="center">📚 About this Application</h2>
-<p align="center">
+<p>
 This Streamlit application is interactive, empowering users to:
 <ul>
 <li>Assess the difficulty of French phrases or texts using our model.</li>
