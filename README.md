@@ -25,8 +25,10 @@ Each method underwent rigorous testing to evaluate its effectiveness in predicti
 </p>
 
 <h2 align="center">📊 Dataset Preview</h2>
-<p align="center">
+<p>
+<br><br><br>
 Here is a glimpse into the dataset we used for training our model. You can download the dataset from <a href="https://github.com/Leorongier/Orange_project/blob/main/database/training_data.csv">here</a>.
+<br><br><br>
 </p>
 
 <h2 align="center">📈 Results</h2>
@@ -54,22 +56,16 @@ If you prefer to get a glimpse of the application without having to download and
     </p>
     <p align="center">The Home Page provides key information about the project and app, including objectives, methodology, and results.</p>
     <br><br><br>
-  </li>
-  <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Predict_page_app.png?raw=true" alt="Prediction Page">
     </p>
     <p align="center">On the Predict Page, users can input a French sentence to test the model's ability to predict its difficulty level.</p>
     <br><br><br>
-  </li>
-  <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Param_page_app.png?raw=true" alt="Settings Page">
     </p>
     <p align="center">This page allows users to adjust model parameters and observe how these changes impact performance.</p>
     <br><br><br>
-  </li>
-  <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Data_page_app.png?raw=true" alt="Data Page">
     </p>
