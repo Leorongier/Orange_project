@@ -27,7 +27,7 @@ Each method underwent rigorous testing to evaluate its effectiveness in predicti
 <h2 align="center">📊 Dataset Preview</h2>
 <p>
 <br><br><br>
-Here is a glimpse into the dataset we used for training our model. You can download the dataset from <a href="(https://raw.githubusercontent.com/Leorongier/Orange_project/main/database/training_data.csv)">here</a>.
+Here is a glimpse into the dataset we used for training our model. You can download the dataset from <a href="https://raw.githubusercontent.com/Leorongier/Orange_project/main/database/training_data.csv" download>here</a>.
 <br><br><br>
 </p>
 
