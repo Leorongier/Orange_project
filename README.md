@@ -27,7 +27,7 @@ Each method underwent rigorous testing to evaluate its effectiveness in predicti
 <h2 align="center">📊 Dataset Preview</h2>
 <p>
 <br><br><br>
-Here is a glimpse into the dataset we used for training our model. You can download the dataset from <a href="https://github.com/Leorongier/Orange_project/blob/main/database/training_data.csv">here</a>.
+Here is a glimpse into the dataset we used for training our model. You can download the dataset from <a href="[https://github.com/Leorongier/Orange_project/blob/main/database/training_data.csv](https://raw.githubusercontent.com/Leorongier/Orange_project/main/database/training_data.csv)">here</a>.
 <br><br><br>
 </p>
 
@@ -41,7 +41,7 @@ We achieved an accuracy score of 0.58, marking a commendable step forward toward
 <h2 align="center">🚀 How to Launch the Application</h2>
 <p>
 <br><br><br>
-To start exploring our application, please follow, please download <a href="https://github.com/Leorongier/Orange_project/blob/main/Application/Application.ipynb"><code>application.ipynb</code></a>.and run the code</code> file and follow the instructions provided.</li>
+To start exploring our application, please follow, please download <a href="[https://github.com/Leorongier/Orange_project/blob/main/Application/Application.ipynb](https://raw.githubusercontent.com/Leorongier/Orange_project/main/Application/Application.ipynb)"><code>application.ipynb</code></a>.and run the code</code> file and follow the instructions provided.</li>
 <br><br><br>
 </p>
 
