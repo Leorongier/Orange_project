@@ -26,7 +26,7 @@ Each method underwent rigorous testing to evaluate its effectiveness in predicti
 
 <h2 align="center">📊 Dataset Preview</h2>
 <p align="center">
-Here is a glimpse into the dataset we used for training our model. You can download the dataset from <a href="https://github.com/Leorongier/Orange_project/blob/main/path/to/dataset.csv">here</a>.
+Here is a glimpse into the dataset we used for training our model. You can download the dataset from <a href="https://github.com/Leorongier/Orange_project/blob/main/database/training_data.csv">here</a>.
 </p>
 
 <h2 align="center">📈 Results</h2>
@@ -38,30 +38,7 @@ We achieved an accuracy score of 0.58, marking a commendable step forward toward
 
 <h2 align="center">🚀 How to Launch the Application</h2>
 <p align="center">
-To start exploring our application, please follow these steps:
-<ol>
-  <li>Navigate to <code>main > Application</code> in our GitHub repository.</li>
-  <p align="center">
-    <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_1.png?raw=true" alt="Navigation Step 1">
-    <br>
-    Description for Step 1.
-    <br><br>
-  </p>
-  <li>Download the file named <code>application.ipynb</code>.</li>
-  <p align="center">
-    <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_2.png?raw=true" alt="Download File">
-    <br>
-    Description for Step 2.
-    <br><br>
-  </p>
-  <li>Run the code in the <code>application.ipynb</code> file and follow the instructions provided.</li>
-  <p align="center">
-    <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Tuto_app_3.png?raw=true" alt="Run Application">
-    <br>
-    Description for Step 3.
-    <br><br>
-  </p>
-</ol>
+To start exploring our application, please follow, please download <a href="https://github.com/Leorongier/Orange_project/blob/main/Application/Application.ipynb"><code>application.ipynb</code></a>.and run the code</code> file and follow the instructions provided.</li>
 </p>
 
 <h2 align="center">👀 Application Preview</h2>
