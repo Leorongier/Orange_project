@@ -41,7 +41,7 @@ We achieved an accuracy score of 0.58, marking a commendable step forward toward
 <h2 align="center">🚀 How to Launch the Application</h2>
 <p>
 <br><br><br>
-To start exploring our application, please clic <a href="https://github.com/Leorongier/Orange_project/blob/main/Application/Application.ipynb">here</a>. download the file and run the code</code> file and follow the instructions provided.</li>
+To start exploring our application, please clic <a href="https://github.com/Leorongier/Orange_project/blob/main/Application/Application.ipynb">here</a>. download the file, run it and follow the instructions provided.</li>
 <br><br><br>
 </p>
 
