@@ -11,7 +11,7 @@ from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_sc
 from sklearn.model_selection import train_test_split
 import base64
 
-logo_path = '/content/Logo_team_orange_DS&ML.png' 
+logo_path = '/content/Orange_project-main/Application/Logo_team_orange_DS&ML.png' 
 col1, col2, col3 = st.columns([1,2,1])
 with col2:
     st.image(logo_path, use_column_width=True)
