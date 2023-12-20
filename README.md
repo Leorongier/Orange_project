@@ -50,7 +50,6 @@ To start exploring our application, please follow, please download <a href="http
 <br><br><br>
 If you prefer to get a glimpse of the application without having to download and run it, here are some images illustrating what it looks like:
 <ul>
-  <li>
     <p align="center">
       <img src="https://github.com/Leorongier/Orange_project/blob/main/Images (not relevant)/Home_page_app.png?raw=true" alt="Home Page">
     </p>
@@ -71,6 +70,5 @@ If you prefer to get a glimpse of the application without having to download and
     </p>
     <p align="center">The Data Page offers an interactive way to explore the dataset, sorting texts by their difficulty levels.</p>
     <br><br><br>
-  </li>
 </ul>
 </p>
