@@ -65,7 +65,7 @@ with tab2:
 
 with tab3:
   # Load your data (adapt according to the correct path of your file)
-  data = pd.read_csv('training_data.csv')
+  data = pd.read_csv('/content/Orange_project-main/database/training_data.csv')
   train, test = train_test_split(data, test_size=0.2, random_state=42)
 
   # Function to run and evaluate a given model
@@ -134,7 +134,7 @@ with tab3:
 
 with tab4: 
     # Load the DataFrame (make sure it's the correct path)
-    data = pd.read_csv('training_data.csv')
+    data = pd.read_csv('/content/Orange_project-main/database/training_data.csv')
 
     # Display the download button in the Streamlit application
     st.download_button(
