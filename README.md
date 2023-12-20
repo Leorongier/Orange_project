@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to the Orange_project!</h1>
 
-[![Video Explanation]([[https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://www.youtube.com/watch?v=Dcd5UvuWW-Q)](https://www.youtube.com/watch?v=Dcd5UvuWW-Q))
+[![Video Explanation](https://i9.ytimg.com/vi_webp/Dcd5UvuWW-Q/mqdefault.webp?v=65836019&sqp=CNzAjawG&rs=AOn4CLBXan4jZm4zMBjgctc9TjemQH-8mA)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://www.youtube.com/watch?v=Dcd5UvuWW-Q)](https://www.youtube.com/watch?v=Dcd5UvuWW-Q))
 
 
 <h2 align="center">🌟 Project Context</h2>
