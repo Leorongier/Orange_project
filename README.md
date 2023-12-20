@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Application/Logo_team_orange_DS&ML.png" alt="Logo">
+  <img src="https://github.com/Leorongier/Orange_project/blob/main/Application/Logo_team_orange_DS&ML.png?raw=true" alt="Logo">
 </p>
 
 <h1 align="center">🍊 Orange_project</h1>
