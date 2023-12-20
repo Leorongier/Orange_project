@@ -11,7 +11,6 @@ We are thrilled to introduce an application developed by Khadija Oukerroum and L
 </p>
 
 <h2 align="center">🔍 Methodology</h2>
-<p align="center">
 Our approach involved experimenting with a variety of Machine Learning techniques:<br>
 <ul>
   <li>Logistic Regression with Finetuned-Embedding</li>
