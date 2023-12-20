@@ -1,4 +1,4 @@
-# 🍊 Orange_project
+<h1 align="center">🍊 Orange_project</h1>
 ## 🌟 Project Context
 Welcome to the Orange_project!
 
