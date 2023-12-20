@@ -5,7 +5,7 @@ import numpy as np
 
 # Utilisez le bon identifiant de modèle ici
 MODEL_NAME = 'MokaExpress/flaubert-french-difficulty'
-CLASSIFIER_PATH = 'svm_clf.pkl'
+CLASSIFIER_PATH = '/content/Orange_project-main/CEFR_Classifier_French/svm_clf.pkl'
 
 def load_model_and_classifier():
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
